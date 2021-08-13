@@ -30,10 +30,10 @@
 #define COMMANDLINEPARSER_H
 
 #include "commandlineparser_p.h"
-
+#include "qinstallerglobal.h"
 #include <QCommandLineParser>
 
-class CommandLineParser
+class INSTALLER_EXPORT CommandLineParser
 {
 public:
     CommandLineParser();
