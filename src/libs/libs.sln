@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "7z", "E:/installer-framework/src/libs/7zip\7z.vcxproj", "{F501D000-47D2-38F5-ACBA-799CA960DF19}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "installer", "E:/installer-framework/src/libs/installer\installer.vcxproj", "{8D0B6FD4-F5F1-350A-8FB3-6D1F44FEFA44}"
+	ProjectSection(ProjectDependencies) = postProject
+		{F501D000-47D2-38F5-ACBA-799CA960DF19} = {F501D000-47D2-38F5-ACBA-799CA960DF19}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F501D000-47D2-38F5-ACBA-799CA960DF19}.Debug|x64.ActiveCfg = Debug|x64
+		{F501D000-47D2-38F5-ACBA-799CA960DF19}.Debug|x64.Build.0 = Debug|x64
+		{F501D000-47D2-38F5-ACBA-799CA960DF19}.Release|x64.ActiveCfg = Release|x64
+		{F501D000-47D2-38F5-ACBA-799CA960DF19}.Release|x64.Build.0 = Release|x64
+		{8D0B6FD4-F5F1-350A-8FB3-6D1F44FEFA44}.Debug|x64.ActiveCfg = Debug|x64
+		{8D0B6FD4-F5F1-350A-8FB3-6D1F44FEFA44}.Debug|x64.Build.0 = Debug|x64
+		{8D0B6FD4-F5F1-350A-8FB3-6D1F44FEFA44}.Release|x64.ActiveCfg = Release|x64
+		{8D0B6FD4-F5F1-350A-8FB3-6D1F44FEFA44}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

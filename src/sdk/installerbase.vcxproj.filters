@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Form Files">
+      <UniqueIdentifier>{99349809-55BA-4b9d-BF79-8FDBB0286EB3}</UniqueIdentifier>
+      <Extensions>ui</Extensions>
+      <ParseFiles>false</ParseFiles>
+    </Filter>
+    <Filter Include="Form Files">
+      <UniqueIdentifier>{99349809-55BA-4b9d-BF79-8FDBB0286EB3}</UniqueIdentifier>
+      <Extensions>ui</Extensions>
+      <ParseFiles>false</ParseFiles>
+    </Filter>
+    <Filter Include="Generated Files">
+      <UniqueIdentifier>{71ED8ED8-ACB9-4CE9-BBE1-E00B30144E11}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;moc;h;def;odl;idl;res;</Extensions>
+    </Filter>
+    <Filter Include="Generated Files">
+      <UniqueIdentifier>{71ED8ED8-ACB9-4CE9-BBE1-E00B30144E11}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;moc;h;def;odl;idl;res;</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="LRELEASE translations/ifw_ca.ts translations/ifw_da.ts translations/ifw_de.ts translations/ifw_es.ts translations/ifw_fr.ts translations/ifw_it.ts translations/ifw_ja.ts translations/ifw_pl.ts translations/ifw_pt_BR.ts translations/ifw_ru.ts translations/ifw_zh_CN.ts translations/ifw_en.ts">
+      <UniqueIdentifier>{E0D8C965-CC5F-43d7-AD63-FAEF0BBC0F85}-updateqm</UniqueIdentifier>
+      <ParseFiles>false</ParseFiles>
+    </Filter>
+    <Filter Include="LRELEASE translations/ifw_ca.ts translations/ifw_da.ts translations/ifw_de.ts translations/ifw_es.ts translations/ifw_fr.ts translations/ifw_it.ts translations/ifw_ja.ts translations/ifw_pl.ts translations/ifw_pt_BR.ts translations/ifw_ru.ts translations/ifw_zh_CN.ts translations/ifw_en.ts">
+      <UniqueIdentifier>{E0D8C965-CC5F-43d7-AD63-FAEF0BBC0F85}-updateqm</UniqueIdentifier>
+      <ParseFiles>false</ParseFiles>
+    </Filter>
+    <Filter Include="RCC installerbase.qrc">
+      <UniqueIdentifier>{E0D8C965-CC5F-43d7-AD63-FAEF0BBC0F85}-runrcc</UniqueIdentifier>
+      <ParseFiles>false</ParseFiles>
+    </Filter>
+    <Filter Include="RCC installerbase.qrc">
+      <UniqueIdentifier>{E0D8C965-CC5F-43d7-AD63-FAEF0BBC0F85}-runrcc</UniqueIdentifier>
+      <ParseFiles>false</ParseFiles>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="commandlineinterface.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="installerbase.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="installerbasecommons.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="settingsdialog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="tabcontroller.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="commandlineinterface.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="installerbase.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="installerbasecommons.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <ClInclude Include="sdkapp.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <CustomBuild Include="settingsdialog.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="tabcontroller.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="debug\moc_commandlineinterface.cpp">
+      <Filter>Generated Files</Filter>
+    </ClCompile>
+    <ClCompile Include="release\moc_commandlineinterface.cpp">
+      <Filter>Generated Files</Filter>
+    </ClCompile>
+    <ClCompile Include="debug\moc_installerbase.cpp">
+      <Filter>Generated Files</Filter>
+    </ClCompile>
+    <ClCompile Include="release\moc_installerbase.cpp">
+      <Filter>Generated Files</Filter>
+    </ClCompile>
+    <ClCompile Include="debug\moc_installerbasecommons.cpp">
+      <Filter>Generated Files</Filter>
+    </ClCompile>
+    <ClCompile Include="release\moc_installerbasecommons.cpp">
+      <Filter>Generated Files</Filter>
+    </ClCompile>
+    <CustomBuild Include="debug\moc_predefs.h.cbt">
+      <Filter>Generated Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="release\moc_predefs.h.cbt">
+      <Filter>Generated Files</Filter>
+    </CustomBuild>
+    <ClCompile Include="debug\moc_settingsdialog.cpp">
+      <Filter>Generated Files</Filter>
+    </ClCompile>
+    <ClCompile Include="release\moc_settingsdialog.cpp">
+      <Filter>Generated Files</Filter>
+    </ClCompile>
+    <ClCompile Include="debug\moc_tabcontroller.cpp">
+      <Filter>Generated Files</Filter>
+    </ClCompile>
+    <ClCompile Include="release\moc_tabcontroller.cpp">
+      <Filter>Generated Files</Filter>
+    </ClCompile>
+    <ClCompile Include="qrc_installerbase.cpp">
+      <Filter>Generated Files</Filter>
+    </ClCompile>
+    <ClInclude Include="ui_settingsdialog.h">
+      <Filter>Generated Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="settingsdialog.ui">
+      <Filter>Form Files</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="translations\ifw_ca.ts">
+      <Filter>LRELEASE translations/ifw_ca.ts translations/ifw_da.ts translations/ifw_de.ts translations/ifw_es.ts translations/ifw_fr.ts translations/ifw_it.ts translations/ifw_ja.ts translations/ifw_pl.ts translations/ifw_pt_BR.ts translations/ifw_ru.ts translations/ifw_zh_CN.ts translations/ifw_en.ts</Filter>
+    </CustomBuild>
+    <CustomBuild Include="translations\ifw_da.ts">
+      <Filter>LRELEASE translations/ifw_ca.ts translations/ifw_da.ts translations/ifw_de.ts translations/ifw_es.ts translations/ifw_fr.ts translations/ifw_it.ts translations/ifw_ja.ts translations/ifw_pl.ts translations/ifw_pt_BR.ts translations/ifw_ru.ts translations/ifw_zh_CN.ts translations/ifw_en.ts</Filter>
+    </CustomBuild>
+    <CustomBuild Include="translations\ifw_de.ts">
+      <Filter>LRELEASE translations/ifw_ca.ts translations/ifw_da.ts translations/ifw_de.ts translations/ifw_es.ts translations/ifw_fr.ts translations/ifw_it.ts translations/ifw_ja.ts translations/ifw_pl.ts translations/ifw_pt_BR.ts translations/ifw_ru.ts translations/ifw_zh_CN.ts translations/ifw_en.ts</Filter>
+    </CustomBuild>
+    <CustomBuild Include="translations\ifw_en.ts">
+      <Filter>LRELEASE translations/ifw_ca.ts translations/ifw_da.ts translations/ifw_de.ts translations/ifw_es.ts translations/ifw_fr.ts translations/ifw_it.ts translations/ifw_ja.ts translations/ifw_pl.ts translations/ifw_pt_BR.ts translations/ifw_ru.ts translations/ifw_zh_CN.ts translations/ifw_en.ts</Filter>
+    </CustomBuild>
+    <CustomBuild Include="translations\ifw_es.ts">
+      <Filter>LRELEASE translations/ifw_ca.ts translations/ifw_da.ts translations/ifw_de.ts translations/ifw_es.ts translations/ifw_fr.ts translations/ifw_it.ts translations/ifw_ja.ts translations/ifw_pl.ts translations/ifw_pt_BR.ts translations/ifw_ru.ts translations/ifw_zh_CN.ts translations/ifw_en.ts</Filter>
+    </CustomBuild>
+    <CustomBuild Include="translations\ifw_fr.ts">
+      <Filter>LRELEASE translations/ifw_ca.ts translations/ifw_da.ts translations/ifw_de.ts translations/ifw_es.ts translations/ifw_fr.ts translations/ifw_it.ts translations/ifw_ja.ts translations/ifw_pl.ts translations/ifw_pt_BR.ts translations/ifw_ru.ts translations/ifw_zh_CN.ts translations/ifw_en.ts</Filter>
+    </CustomBuild>
+    <CustomBuild Include="translations\ifw_it.ts">
+      <Filter>LRELEASE translations/ifw_ca.ts translations/ifw_da.ts translations/ifw_de.ts translations/ifw_es.ts translations/ifw_fr.ts translations/ifw_it.ts translations/ifw_ja.ts translations/ifw_pl.ts translations/ifw_pt_BR.ts translations/ifw_ru.ts translations/ifw_zh_CN.ts translations/ifw_en.ts</Filter>
+    </CustomBuild>
+    <CustomBuild Include="translations\ifw_ja.ts">
+      <Filter>LRELEASE translations/ifw_ca.ts translations/ifw_da.ts translations/ifw_de.ts translations/ifw_es.ts translations/ifw_fr.ts translations/ifw_it.ts translations/ifw_ja.ts translations/ifw_pl.ts translations/ifw_pt_BR.ts translations/ifw_ru.ts translations/ifw_zh_CN.ts translations/ifw_en.ts</Filter>
+    </CustomBuild>
+    <CustomBuild Include="translations\ifw_pl.ts">
+      <Filter>LRELEASE translations/ifw_ca.ts translations/ifw_da.ts translations/ifw_de.ts translations/ifw_es.ts translations/ifw_fr.ts translations/ifw_it.ts translations/ifw_ja.ts translations/ifw_pl.ts translations/ifw_pt_BR.ts translations/ifw_ru.ts translations/ifw_zh_CN.ts translations/ifw_en.ts</Filter>
+    </CustomBuild>
+    <CustomBuild Include="translations\ifw_pt_BR.ts">
+      <Filter>LRELEASE translations/ifw_ca.ts translations/ifw_da.ts translations/ifw_de.ts translations/ifw_es.ts translations/ifw_fr.ts translations/ifw_it.ts translations/ifw_ja.ts translations/ifw_pl.ts translations/ifw_pt_BR.ts translations/ifw_ru.ts translations/ifw_zh_CN.ts translations/ifw_en.ts</Filter>
+    </CustomBuild>
+    <CustomBuild Include="translations\ifw_ru.ts">
+      <Filter>LRELEASE translations/ifw_ca.ts translations/ifw_da.ts translations/ifw_de.ts translations/ifw_es.ts translations/ifw_fr.ts translations/ifw_it.ts translations/ifw_ja.ts translations/ifw_pl.ts translations/ifw_pt_BR.ts translations/ifw_ru.ts translations/ifw_zh_CN.ts translations/ifw_en.ts</Filter>
+    </CustomBuild>
+    <CustomBuild Include="translations\ifw_zh_CN.ts">
+      <Filter>LRELEASE translations/ifw_ca.ts translations/ifw_da.ts translations/ifw_de.ts translations/ifw_es.ts translations/ifw_fr.ts translations/ifw_it.ts translations/ifw_ja.ts translations/ifw_pl.ts translations/ifw_pt_BR.ts translations/ifw_ru.ts translations/ifw_zh_CN.ts translations/ifw_en.ts</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="installerbase.qrc">
+      <Filter>RCC installerbase.qrc</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="installerbase.rc" />
+  </ItemGroup>
+</Project>
