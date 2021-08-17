@@ -1,28 +1,28 @@
 <RCC>
     <qresource prefix="/">
         <file>translations/ifw_ca.qm</file>
-        <file alias="translations/qt_ca.qm">D:/QT/5.15.0/MSVC2019_64/translations/qtbase_ca.qm</file>
+        <file alias="translations/qt_ca.qm">G:/Qt/Static/5.15.2/translations/qtbase_ca.qm</file>
         <file>translations/ifw_da.qm</file>
-        <file alias="translations/qt_da.qm">D:/QT/5.15.0/MSVC2019_64/translations/qtbase_da.qm</file>
+        <file alias="translations/qt_da.qm">G:/Qt/Static/5.15.2/translations/qtbase_da.qm</file>
         <file>translations/ifw_de.qm</file>
-        <file alias="translations/qt_de.qm">D:/QT/5.15.0/MSVC2019_64/translations/qtbase_de.qm</file>
+        <file alias="translations/qt_de.qm">G:/Qt/Static/5.15.2/translations/qtbase_de.qm</file>
         <file>translations/ifw_es.qm</file>
-        <file alias="translations/qt_es.qm">D:/QT/5.15.0/MSVC2019_64/translations/qtbase_es.qm</file>
+        <file alias="translations/qt_es.qm">G:/Qt/Static/5.15.2/translations/qtbase_es.qm</file>
         <file>translations/ifw_fr.qm</file>
-        <file alias="translations/qt_fr.qm">D:/QT/5.15.0/MSVC2019_64/translations/qtbase_fr.qm</file>
+        <file alias="translations/qt_fr.qm">G:/Qt/Static/5.15.2/translations/qtbase_fr.qm</file>
         <file>translations/ifw_it.qm</file>
-        <file alias="translations/qt_it.qm">D:/QT/5.15.0/MSVC2019_64/translations/qtbase_it.qm</file>
+        <file alias="translations/qt_it.qm">G:/Qt/Static/5.15.2/translations/qtbase_it.qm</file>
         <file>translations/ifw_ja.qm</file>
-        <file alias="translations/qt_ja.qm">D:/QT/5.15.0/MSVC2019_64/translations/qtbase_ja.qm</file>
+        <file alias="translations/qt_ja.qm">G:/Qt/Static/5.15.2/translations/qtbase_ja.qm</file>
         <file>translations/ifw_pl.qm</file>
-        <file alias="translations/qt_pl.qm">D:/QT/5.15.0/MSVC2019_64/translations/qtbase_pl.qm</file>
+        <file alias="translations/qt_pl.qm">G:/Qt/Static/5.15.2/translations/qtbase_pl.qm</file>
         <file>translations/ifw_pt_BR.qm</file>
-        <file alias="translations/qt_pt.qm">D:/QT/5.15.0/MSVC2019_64/translations/qt_pt.qm</file>
+        <file alias="translations/qt_pt.qm">G:/Qt/Static/5.15.2/translations/qt_pt.qm</file>
         <file>translations/ifw_ru.qm</file>
-        <file alias="translations/qt_ru.qm">D:/QT/5.15.0/MSVC2019_64/translations/qtbase_ru.qm</file>
+        <file alias="translations/qt_ru.qm">G:/Qt/Static/5.15.2/translations/qtbase_ru.qm</file>
         <file>translations/ifw_zh_CN.qm</file>
-        <file alias="translations/qt_zh_CN.qm">D:/QT/5.15.0/MSVC2019_64/translations/qt_zh_CN.qm</file>
+        <file alias="translations/qt_zh_CN.qm">G:/Qt/Static/5.15.2/translations/qt_zh_CN.qm</file>
         <file>translations/ifw_en.qm</file>
-        <file alias="translations/qt_en.qm">D:/QT/5.15.0/MSVC2019_64/translations/qtbase_en.qm</file>
+        <file alias="translations/qt_en.qm">G:/Qt/Static/5.15.2/translations/qtbase_en.qm</file>
     </qresource>
 </RCC>

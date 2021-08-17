@@ -10,7 +10,7 @@ VS_VERSION_INFO VERSIONINFO
         BEGIN
             BLOCK "040904B0"
             BEGIN
-                VALUE "FileVersion", IFW_VERSION_STR_WIN32
+                VALUE "FileVersion", "4.0.1"
             END
         END
     END
