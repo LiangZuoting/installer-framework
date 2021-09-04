@@ -101,7 +101,7 @@ int CommandLineInterface::checkUpdates()
         m_core->components(QInstaller::PackageManagerCore::ComponentType::Root);
     if (components.isEmpty()) {
         qCWarning(QInstaller::lcInstallerInstallLog) << "There are currently no updates available.";
-        return EXIT_SUCCESS;
+        return EXIT_FAILURE;
     }
 
     QDomDocument doc;
